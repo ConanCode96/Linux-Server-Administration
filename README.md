@@ -1,6 +1,6 @@
 # Udacity - Linux Server Administration Project
 
-Udacity's Full Stack Web Developer III Nanodegree Project.
+Udacity's Full Stack Web Developer III Nanodegree Project. *[Link to II Project](https://github.com/ConanCode96/Items-Catalog)
 
 ## Projcet Overview
 
