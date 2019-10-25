@@ -153,7 +153,7 @@ Run The following commands in sequence:
 First log into the account of the user `grader` from your virtual server:
 
 ```
-# su - grader
+# sudo -s -u grader
 ```
 
 Now you should be at `grader`'s home directory, to make sure you are run 
@@ -221,7 +221,7 @@ You should now be able to log in as `grader` with no passwords required
 1. Log in as the user `postgres` that was automatically created during the installation of PostgreSQL Server:
 
    ```
-   # su - postgres
+   # sudo -s -u postgres
    ```
 
 2. Open the `psql` shell:
