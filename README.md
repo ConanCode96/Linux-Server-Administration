@@ -18,11 +18,11 @@ In this project, I used the following:
 
 ### Technical Information About the Server
 
-- **Server (Static) IP Address:** 3.124.92.8
+- **Server (Static) IP Address:** ~3.124.92.8~ (Server is now down)
 - **(non-default) SSH port:** 2200
 - **SSH tunnel username:** grader
 - **SSH tunnel password:** ~~N/A(disabled feature!)~~
-- **Application URL:** http://item.catalog.3.124.92.8.xip.io/
+- **Application URL:** ~http://item.catalog.3.124.92.8.xip.io/~
 
 
 **Note to reader: `(#) denotes SuperUser (sudo)`**
